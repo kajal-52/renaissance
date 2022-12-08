@@ -1,49 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="863e56e6-8944-4fa5-b2b4-867e93fe3e76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="188a3d8e-307f-47d8-a0be-0b84f2ffcd28" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2I7aXZrn4xDY6zPPvEJwUF5YHpe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2G73MJUKa8IazCxzxbC7YPJ83om" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Learning/renaissance/src/com/programming/module3/sorting&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.programming.module8.lld" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Learning\renaissance\src\com\programming\module3\sorting" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.programming.module3.sorting" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="MaximumChunksBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programming.module2.arrays.MaximumChunksBruteForce" />
+  <component name="RunManager" selected="Application.PushBottomUsingRecursion">
+    <configuration name="ConsecutiveElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.module4.hashing.ConsecutiveElements" />
       <module name="renaissance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programming.module2.arrays.*" />
+          <option name="PATTERN" value="com.programming.module4.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PushBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.module4.stack.PushBottom" />
+      <module name="renaissance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming.module4.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PushBottomUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.module4.stack.PushBottomUsingRecursion" />
+      <module name="renaissance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming.module4.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.module4.stack.ReverseStack" />
+      <module name="renaissance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming.module4.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programming.module4.stack.Stacks" />
+      <module name="renaissance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programming.module4.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,30 +110,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumChunksBruteForce" />
+        <item itemvalue="Application.PushBottomUsingRecursion" />
+        <item itemvalue="Application.ReverseStack" />
+        <item itemvalue="Application.PushBottom" />
+        <item itemvalue="Application.Stacks" />
+        <item itemvalue="Application.ConsecutiveElements" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="863e56e6-8944-4fa5-b2b4-867e93fe3e76" name="Changes" comment="" />
-      <created>1669535119424</created>
+      <changelist id="188a3d8e-307f-47d8-a0be-0b84f2ffcd28" name="Changes" comment="" />
+      <created>1665725747762</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669535119424</updated>
+      <updated>1665725747762</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
